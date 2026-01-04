@@ -8,7 +8,6 @@
         
         IMPORTANTE: Este servicio redacta automáticamente las contraseñas.
     </string>
-    
     <string name="notification_recording">Grabando sesión de prueba</string>
     <string name="notification_stop">Detener</string>
 </resources>
